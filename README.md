@@ -10,13 +10,14 @@ Finally, (you who reads this) please provide any feedback of these blogs when I 
 
 
 Main Topics
-1. **Physics** (A request from a close friend) Will specifically be about Gravitation, The consequences of it, and Gravitational Singularities. We will also explore __Lorenz Transformation__, and more. Will include notes, analogies, and different perspectives of how to view all of this.
+- **Physics** (A request from a close friend) Will specifically be about Gravitation, The consequences of it, and Gravitational Singularities. We will also explore __Lorenz Transformation__, and more. Will include notes, analogies, and different perspectives of how to view all of this.
 
 ***
+- **Cryptography**
+- Reverse Engineering
 
-3. Cryptography
-4. Reverse Engineering
-5. Stuttering & Overthinking
+Later:
+- Stuttering & Overthinking
 
 
 
